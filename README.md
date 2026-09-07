@@ -1,3 +1,3 @@
 BRUCE WAYNE IS BATMAN
 
-src = ("![BATMAN](images/1749657628578.jpg)")
+"![BATMAN](images/1749657628578.jpg)
